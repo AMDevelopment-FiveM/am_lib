@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+- Fixed `RegisterCallback` compatibility with multicharacter resources.
+- Added support for standard, table-based and wrapper callback registration.
+- Added callback existence/removal helpers and clearer missing-callback logging.
+
 ## 1.0.0
 
 Initial public release.

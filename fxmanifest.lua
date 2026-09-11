@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'AM Development'
 description 'Unified bridge/core library for AM Development resources'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     'config.lua',
