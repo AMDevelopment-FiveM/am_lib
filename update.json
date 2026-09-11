@@ -1,0 +1,229 @@
+{
+  "name": "am_lib",
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "CHANGELOG.md"
+    },
+    {
+      "path": "README.md"
+    },
+    {
+      "path": "bridges/database/oxmysql.lua"
+    },
+    {
+      "path": "bridges/dispatch/cd_dispatch.lua"
+    },
+    {
+      "path": "bridges/dispatch/ps_dispatch.lua"
+    },
+    {
+      "path": "bridges/dispatch/qs_dispatch.lua"
+    },
+    {
+      "path": "bridges/dispatch/rcore_dispatch.lua"
+    },
+    {
+      "path": "bridges/framework/esx.lua"
+    },
+    {
+      "path": "bridges/framework/qb.lua"
+    },
+    {
+      "path": "bridges/framework/qbox.lua"
+    },
+    {
+      "path": "bridges/framework/vrp.lua"
+    },
+    {
+      "path": "bridges/fuel/legacyfuel.lua"
+    },
+    {
+      "path": "bridges/fuel/ox_fuel.lua"
+    },
+    {
+      "path": "bridges/inventory/esx.lua"
+    },
+    {
+      "path": "bridges/inventory/ox_inventory.lua"
+    },
+    {
+      "path": "bridges/inventory/qb_inventory.lua"
+    },
+    {
+      "path": "bridges/inventory/vrp.lua"
+    },
+    {
+      "path": "bridges/keys/qb_vehiclekeys.lua"
+    },
+    {
+      "path": "bridges/keys/renewed_vehiclekeys.lua"
+    },
+    {
+      "path": "bridges/multicharacter/esx_multicharacter.lua"
+    },
+    {
+      "path": "bridges/multicharacter/generic.lua"
+    },
+    {
+      "path": "bridges/multicharacter/qb_multicharacter.lua"
+    },
+    {
+      "path": "bridges/multicharacter/qbox.lua"
+    },
+    {
+      "path": "bridges/multicharacter/vrp.lua"
+    },
+    {
+      "path": "bridges/target/ox_target.lua"
+    },
+    {
+      "path": "bridges/target/qb_target.lua"
+    },
+    {
+      "path": "client/animations.lua"
+    },
+    {
+      "path": "client/blips.lua"
+    },
+    {
+      "path": "client/callbacks.lua"
+    },
+    {
+      "path": "client/character.lua"
+    },
+    {
+      "path": "client/core.lua"
+    },
+    {
+      "path": "client/dispatch.lua"
+    },
+    {
+      "path": "client/framework.lua"
+    },
+    {
+      "path": "client/integrations.lua"
+    },
+    {
+      "path": "client/npc.lua"
+    },
+    {
+      "path": "client/objects.lua"
+    },
+    {
+      "path": "client/target.lua"
+    },
+    {
+      "path": "client/ui.lua"
+    },
+    {
+      "path": "client/vehicle.lua"
+    },
+    {
+      "path": "client/vehicle_integrations.lua"
+    },
+    {
+      "path": "client/zones.lua"
+    },
+    {
+      "path": "core/bootstrap.lua"
+    },
+    {
+      "path": "core/bridge.lua"
+    },
+    {
+      "path": "core/cache.lua"
+    },
+    {
+      "path": "core/character.lua"
+    },
+    {
+      "path": "core/modules.lua"
+    },
+    {
+      "path": "fxmanifest.lua"
+    },
+    {
+      "path": "locales/da.json"
+    },
+    {
+      "path": "locales/en.json"
+    },
+    {
+      "path": "modules/diagnostics.lua"
+    },
+    {
+      "path": "modules/init.lua"
+    },
+    {
+      "path": "modules/validation.lua"
+    },
+    {
+      "path": "patches/flax_vrp/INSTALL.md"
+    },
+    {
+      "path": "patches/flax_vrp/install.sql"
+    },
+    {
+      "path": "patches/flax_vrp/modules/am_multicharacter.lua"
+    },
+    {
+      "path": "server/billing.lua"
+    },
+    {
+      "path": "server/callbacks.lua"
+    },
+    {
+      "path": "server/character.lua"
+    },
+    {
+      "path": "server/core.lua"
+    },
+    {
+      "path": "server/database.lua"
+    },
+    {
+      "path": "server/dispatch.lua"
+    },
+    {
+      "path": "server/framework.lua"
+    },
+    {
+      "path": "server/garage.lua"
+    },
+    {
+      "path": "server/integrations.lua"
+    },
+    {
+      "path": "server/inventory.lua"
+    },
+    {
+      "path": "server/logging.lua"
+    },
+    {
+      "path": "server/metadata.lua"
+    },
+    {
+      "path": "server/permissions.lua"
+    },
+    {
+      "path": "server/society.lua"
+    },
+    {
+      "path": "server/updater.lua"
+    },
+    {
+      "path": "server/usable.lua"
+    },
+    {
+      "path": "shared/init.lua"
+    },
+    {
+      "path": "shared/locales.lua"
+    },
+    {
+      "path": "shared/utils.lua"
+    }
+  ],
+  "delete": []
+}

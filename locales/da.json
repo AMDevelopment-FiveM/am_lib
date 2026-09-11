@@ -1,0 +1,11 @@
+{
+  "no_access": "Du har ikke adgang til dette.",
+  "not_enough_money": "Du har ikke nok penge.",
+  "inventory_full": "Der er ikke plads i dit inventory.",
+  "invalid_request": "Ugyldig anmodning.",
+  "action_failed": "Handlingen mislykkedes.",
+  "bridge_missing": "Den nødvendige integration blev ikke fundet.",
+  "player_not_found": "Spilleren blev ikke fundet.",
+  "too_far_away": "Du er for langt væk.",
+  "invalid_amount": "Ugyldigt beløb."
+}

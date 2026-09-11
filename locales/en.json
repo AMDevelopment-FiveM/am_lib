@@ -1,0 +1,11 @@
+{
+  "no_access": "You do not have access to this.",
+  "not_enough_money": "You do not have enough money.",
+  "inventory_full": "There is not enough inventory space.",
+  "invalid_request": "Invalid request.",
+  "action_failed": "The action failed.",
+  "bridge_missing": "The required integration was not found.",
+  "player_not_found": "The player was not found.",
+  "too_far_away": "You are too far away.",
+  "invalid_amount": "Invalid amount."
+}
