@@ -159,7 +159,3 @@ am_lib/
 This project follows semantic versioning.
 
 Current release: `1.0.0`
-
-## License
-
-Copyright AM Development. Add your chosen license before publishing the repository publicly.
